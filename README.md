@@ -7,4 +7,4 @@ Structure:
   * project_1
   * project_2
   * ...
-  * project_n
+  * project_N
